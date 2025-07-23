@@ -1,0 +1,17 @@
+{
+  "name": "@yupix/types",
+  "version": "1.0.0",
+  "description": "Shared types for Yupix Task Management",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "keywords": ["types", "shared", "task-management"],
+  "author": "Yupix Developer",
+  "license": "MIT"
+} 
